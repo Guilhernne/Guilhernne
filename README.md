@@ -25,10 +25,11 @@ Projeto conceitual voltado à educação financeira para iniciantes, utilizando 
 
 ## 📬 Vamos conversar?
 
+- **WhatsApp:** (14) 99679-2796
 - **LinkedIn:** [://linkedin.com](https://linkedin.com/in/luis-guilherme-frontend)
 - **E-mail:** l.guilhermegoleiro.o1@gmail.com
 - **Localização:** Mineiros do Tietê - SP
-- **WhatsApp:** (14)99679-2796
+
 
 ---
 ⚡ *"Desenvolvendo aplicações web focadas na experiência do usuário e transformando ideias em código."*
